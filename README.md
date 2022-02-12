@@ -11,3 +11,6 @@
 Версии языков:
 *HTML5
 *CSS3
+
+## Ссылка на проект в GitHub Pages:
+https://annie2505.github.io/russian-travel/
