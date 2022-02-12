@@ -1,0 +1,5 @@
+@media screen and (max-width: 320px) {
+  .place__description {
+    padding: 32px 16px 0;
+  }
+}
